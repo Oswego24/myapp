@@ -1,1 +1,1 @@
-#my application
+console.log('Hello');
